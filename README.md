@@ -70,4 +70,3 @@ Press **Enter** to exit the application.
 
 ---
 
-*This project has been customized and maintained by Rajgopal Pandilwar.*
