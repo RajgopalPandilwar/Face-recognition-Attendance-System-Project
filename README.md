@@ -66,8 +66,6 @@ Press **Enter** to exit the application.
 
 ## Credits
 
-> **Based on original work by Vatshayan.**  
-> Original repository: [Vatshayan/Face-recognition-Attendance-System-Project](https://github.com/Vatshayan/Face-recognition-Attendance-System-Project)  
 > YouTube explanation: https://youtu.be/tLhFaAurhGw
 
 ---

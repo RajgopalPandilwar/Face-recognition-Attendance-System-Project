@@ -2,7 +2,6 @@
 Face Recognition Attendance System - Main Module
 ==================================================
 Author: Rajgopal Pandilwar
-Based on original work by Vatshayan
 
 This module implements a real-time face recognition attendance system.
 It captures video from the webcam, detects and recognizes faces, and marks

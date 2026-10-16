@@ -2,7 +2,6 @@
 Face Recognition Attendance System - Demo Module
 ==================================================
 Author: Rajgopal Pandilwar
-Based on original work by Vatshayan
 
 This is a simplified demo module that demonstrates face recognition
 between two static images (without webcam). Useful for testing the
